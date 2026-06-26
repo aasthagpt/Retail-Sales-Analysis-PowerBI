@@ -74,7 +74,7 @@ Retail sales dataset containing:
 
 ### Executive Dashboard
 
-![Executive Dashboard](Executive_Dashboard.png)
+![Executive dashBoard](Executive_Dashboard.png)
 
 ### Sales Trends
 
