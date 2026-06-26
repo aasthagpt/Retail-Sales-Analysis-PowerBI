@@ -36,23 +36,23 @@ Retail sales dataset containing:
 
 ##  Business Questions Answered
 
-✔ Top 5 Products by Sales
+1. Top 5 Products by Sales
 
-✔ Bottom 5 Products by Sales
+2. Bottom 5 Products by Sales
 
-✔ Sales Trend Analysis
+3. Sales Trend Analysis
 
-✔ Profit vs Net Sales Relationship
+4. Profit vs Net Sales Relationship
 
-✔ Sales Comparison Between Two Time Periods
+5. Sales Comparison Between Two Time Periods
 
-✔ Profit Comparison Between Two Time Periods
+6. Profit Comparison Between Two Time Periods
 
-✔ Units Sold Comparison Between Two Time Periods
+7. Units Sold Comparison Between Two Time Periods
 
-✔ Average Discount by Promotion
+8. Average Discount by Promotion
 
-✔ Sales by City
+9. Sales by City
 
 ---
 
@@ -70,14 +70,26 @@ Retail sales dataset containing:
 ---
 
 ##  Dashboard Preview
+## 📷 Dashboard Preview
 
-(Add screenshots below)
+### Executive Dashboard
 
-```
+![Executive Dashboard](Executive_Dashboard.png)
 
-```
+### Sales Trends
 
----
+![Sales Trends](Sales_Trends.png)
+
+### Top & Bottom Products
+
+![Product Performance](Product_Performance.png)
+
+
+### Top & Bottom Products
+
+![Filter Table](Filter_Table.png)
+
+
 
 ## Author
 Aastha Gupta
